@@ -1,45 +1,21 @@
 {
-  "name": "open-react-template",
+  "name": "personalportfolio",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
-    "classnames": "^2.2.6",
-    "gh-pages": "^3.1.0",
-    "lodash": "^4.17.15",
-    "node-sass": "^4.13.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-ga": "^2.7.0",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.1"
-  },
-  "homepage": "https://jonatankruszweskiITC.github.io/react-portfolio",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "anix": "^0.3.3",
+    "jquery": "^3.2.1",
+    "particles-bg": "^2.3.12",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-scripts": "1.0.17"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {}
+  }
 }

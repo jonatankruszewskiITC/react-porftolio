@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://jonatankruszewskiITC.github.io/react-template",
+  "homepage": "https://jonatankruszewskiITC.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",

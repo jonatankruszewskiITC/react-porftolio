@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bd5fe7f627a1e0a91434948dc494279",
+    "revision": "9568a6990a25f3781cb32caa07e63431",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "19d7f1c951ec73621134",
+    "revision": "e783d312ca4c0426961e",
     "url": "/react-portfolio/static/css/main.765bf907.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.2e6c938b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19d7f1c951ec73621134",
-    "url": "/react-portfolio/static/js/main.ebfbdd73.chunk.js"
+    "revision": "e783d312ca4c0426961e",
+    "url": "/react-portfolio/static/js/main.ac300f8c.chunk.js"
   },
   {
     "revision": "b2c3bc4390b0a9ef7af1",
@@ -74,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2810a88b1d6365b363caeabe678f1629",
     "url": "/react-portfolio/static/media/logo.2810a88b.svg"
+  },
+  {
+    "revision": "a622fc5dd8adcdd27ea42218385013b4",
+    "url": "/react-portfolio/static/media/video-placeholder.a622fc5d.jpg"
   }
 ]);
